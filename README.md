@@ -1,1 +1,1 @@
-# INSE_6220
+# Rice Classification Project
